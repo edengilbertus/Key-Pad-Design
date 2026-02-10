@@ -274,17 +274,6 @@ Priority: 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2 > 1 > 0
 
 ---
 
-## Key Features
-
-✅ **Multi-Room Support**: Controls up to 4 rooms with unique codes  
-✅ **Visual Feedback**: LED indicators show selected room  
-✅ **Secure Authentication**: Bit-by-bit code comparison  
-✅ **Isolated Control**: Demultiplexer ensures only selected door unlocks  
-✅ **Priority Handling**: Encoder handles simultaneous key presses  
-✅ **Expandable**: Design can be extended for more rooms  
-
----
-
 ## Technical Specifications
 
 - **Input**: 10-digit keypad (0-9)
@@ -307,14 +296,3 @@ Ndjountche, T. (2016). *Digital electronics 1: Combinational logic circuits*. Jo
 CS 1105 - Digital Electronics & Computer Architecture  
 February 2026
 
----
-
-## License
-
-This project is for educational purposes as part of coursework requirements.
-
----
-
-## Acknowledgments
-
-Special thanks to Instructor Joseph Okhuoya for guidance on digital electronics principles and combinational circuit design.
