@@ -304,7 +304,5 @@ Ndjountche, T. (2016). *Digital electronics 1: Combinational logic circuits*. Jo
 
 ## Author
 
-**Eden Gilbert Kisekka**  
-CS 1105 - Digital Electronics & Computer Architecture  
-February 2026
+**Eden Gilbert Kisekka**
 
