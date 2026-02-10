@@ -190,6 +190,18 @@ Routes the "Access Granted" signal to the specific door lock:
 
 ---
 
+## Screenshots
+
+### Circuit Overview
+
+![Circuit Overview](Screenshots/Screenshot%202026-02-10%20at%2012.56.44.png)
+
+### Circuit in Operation
+
+![Circuit Operation](Screenshots/Screenshot%202026-02-10%20at%2012.56.53.png)
+
+---
+
 ## Circuit Implementation
 
 ### Opening the Circuit
